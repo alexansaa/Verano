@@ -89,7 +89,10 @@ Clone this repository to your desired folder:
 
 ### Install
 
-Install this project locating the required version of the app into a known folder. Note that this applicatio is going to create sub directories when initialized and on operation
+Install this project locating the required version of the app into a known folder. Note that this application is going to create subdirectories when initialized and in operation.
+Activate ".NET Framework 3.5 (includes .NET 2.0 and 3.0)" feature from Windows OS "Turn Windows Features on or off". You can press the Windows button key and then type in "features" to see the desired option. Then open it so you can see a list of features to install or remove. Select the desired option and click "OK" so the installation process starts.
+
+You must configure Excel to allow open Excel imported files depending on your requirements. Sometimes MsAccess requires specific configurations depending on your data and system requirements.
 
 ### Usage
 
@@ -114,7 +117,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kleber Saavedra**
+👤 **Alexander Saavedra**
 
 - [GitHub](https://github.com/alexansaa)
 - [LinkedIn](https://www.linkedin.com/in/alexander-saavedra-garcia/)
